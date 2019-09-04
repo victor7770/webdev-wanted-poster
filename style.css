@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    width: 420px;
+    font-family: "Verdana";
+} 
+
+.crop{   
+    background-image: url("https://ae01.alicdn.com/kf/HTB1Ttg3SpXXXXX6apXXq6xXFXXXW/Old-master-foto-photo-background-fabric-fancy-photography-backdrops-for-family-photo-studio-portrait-photographic-background.jpg_640x640.jpg");
+    border: 2px solid black;
+}
+p {
+    font-weight: bold;
+}
+img {
+    padding: 10px;
+}
+
+#imgContainer{
+    height: 450px;
+}
